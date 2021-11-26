@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Android-Java-CustomListSample</string>
+    <string name="price">価格</string>
+    <string name="release">発売日</string>
+    <string name="thanks_title">購入完了</string>
+    <string name="thanks_message">購入しました</string>
+    <string name="thanks_message2">ありがとうございます！</string>
+    <string name="btn_back">リストに戻る</string>
 </resources>
