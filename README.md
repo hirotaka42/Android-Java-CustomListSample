@@ -7,7 +7,7 @@
 
 Main Activity             |  Thanks Activity
 :-------------------------:|:-------------------------:
-![Screenshot_20211126-142621_Android-Java-CustomListSample](https://user-images.githubusercontent.com/79750434/143531486-ff88f2ff-78d0-42d9-a69e-45b7864b55ab.jpg) | ![Screenshot_20211126-142629_Android-Java-CustomListSample](https://user-images.githubusercontent.com/79750434/143531494-349c066d-8c83-4f06-81db-07cbcfcfea35.jpg)
+![Screenshot_20211126-142621_Android-Java-CustomListSample](https://user-images.githubusercontent.com/79750434/160295959-d745a957-a06b-4886-a9ca-501d23562d6b.png) | ![Screenshot_20211126-142629_Android-Java-CustomListSample](https://user-images.githubusercontent.com/79750434/160295963-21f109ba-e39c-4976-b50a-1cabe2336d79.png)
 
 ## Requirement
 
