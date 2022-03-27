@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AndroidJavaCustomListSample">
         <activity
-            android:name=".ThanksActivity"
+            android:name=".DetailActivity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
